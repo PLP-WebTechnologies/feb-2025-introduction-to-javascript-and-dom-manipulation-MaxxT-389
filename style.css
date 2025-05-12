@@ -1,0 +1,53 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+main {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+#style-me {
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+}
+
+button {
+    padding: 10px 15px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+#elementContainer {
+    margin-top: 20px;
+    border: 1px dashed #999;
+    padding: 10px;
+}
+
+.new-paragraph {
+    background-color: #e0f7fa;
+    padding: 8px;
+    margin-bottom: 8px;
+    border-radius: 3px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 1em;
+    background-color: #333;
+    color: white;
+    border-radius: 5px;
+}
